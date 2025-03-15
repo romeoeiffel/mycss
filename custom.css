@@ -571,10 +571,10 @@ a[href*="anidb.net"] {
 }
 .adminDrawerLogo img,
 imgLogoIcon {
-  content: url(https://raw.githubusercontent.com/romeoeiffel/mycss/refs/heads/main/favicon.png) !important;
+  content: url(https://raw.githubusercontent.com/romeoeiffel/mycss/main/favicon.png) !important;
 }
 .pageTitleWithLogo {
-  background-image: url(https://raw.githubusercontent.com/romeoeiffel/mycss/refs/heads/main/banner-light.png) !important;
+  background-image: url(https://raw.githubusercontent.com/romeoeiffel/mycss/main/banner-light.png) !important;
 }
 #txtCustomCss,
 #txtLocalCustomCss {
